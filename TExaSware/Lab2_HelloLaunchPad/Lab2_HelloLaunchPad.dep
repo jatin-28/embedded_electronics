@@ -1,0 +1,5 @@
+Dependencies for Project 'Lab2', Target 'HelloLaunchPad': (DO NOT MODIFY !)
+F (.\main.c)(0x52A03F8A)()
+I (TExaS.h)(0x52A03F8A)
+F (.\startup.s)(0x529A117C)()
+F (.\texas.o)(0x52CD10F2)()
